@@ -1,0 +1,19 @@
+img {
+  height: 200px;
+}
+
+.menutext {
+  padding-top: 100px;
+}
+
+#main {
+  margin-left: 100px;
+}
+
+#error {
+  color: red;
+}
+
+#author {
+  color: gray;
+}
